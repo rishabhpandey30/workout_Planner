@@ -28,7 +28,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <p>Created by <strong>Sanjivini Antil</strong></p>
+        <p>Created by <strong>Rishabh Pandey</strong></p>
       </footer>
     </div>
   );
